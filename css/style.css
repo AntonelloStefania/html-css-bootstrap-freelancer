@@ -1,4 +1,5 @@
 /* header */
+
 .background-header{
     background-color: aqua;
     height: 50px;
@@ -21,6 +22,7 @@
 /* main */
 
 /* profile-section */
+
 .profile-background{
     background-color: aquamarine;
     height: 500px;
@@ -62,6 +64,7 @@
 }
 
 /* about-section */
+
 .about-background{
     background-color: aquamarine;
     height: 300px;
@@ -115,6 +118,7 @@
 }
 
 /* info-section */
+
 .info-background{
     height: 150px;
     background-color: rgb(40, 40, 99);
@@ -131,7 +135,9 @@
     border:  1px solid white;
 }
 
+/* fine main */
 /* footer */
+
 .background-footer{
     height: 50px;
     background-color: rgb(1, 1, 41);
