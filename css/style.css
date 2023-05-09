@@ -131,6 +131,10 @@ h2{
     height: 50px;
 }
 
+.about-content{
+    margin: 0 30px;
+}
+
 /* contact-section */
 .form-text{
     display: flex;
