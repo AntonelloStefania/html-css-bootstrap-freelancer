@@ -58,6 +58,10 @@ h2, h1, .upper-logo, h5{
     filter: invert(1);
 }
 
+.navbar-content a:hover, .upper-logo:hover{
+    color: rgb(167, 167, 167);
+}
+
 /* main */
 
 /* profile-section */
@@ -100,6 +104,11 @@ h2, h1, .upper-logo, h5{
 
 h2{
    font-size: 30px;
+}
+
+.portfolio-cards:hover{
+    filter: sepia(2) contrast(1);
+    cursor: pointer;
 }
 
 /* about-section */
@@ -187,4 +196,9 @@ h2{
 #start{
     text-decoration: none;
     color: #1ABC9C;
+}
+
+#start:hover{
+    text-decoration: underline;
+    color: #189b81;
 }
