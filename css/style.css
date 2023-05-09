@@ -7,23 +7,13 @@
 /* header */
 
 .background-header{
-    background-color: aqua;
-    height: 50px;
+    background-color: #2C3E50;
+    position: fixed;
+    z-index: 4;
+    width: 100%;
 }
 
-.header-row{
-    height: 50px;
-}
 
-.green{
-    background-color: green;
-    height: 100%;
-}
-
-.yellowgreen{
-    background-color: greenyellow;
-    height: 100%;
-}
 
 /* main */
 
@@ -44,7 +34,7 @@
 
 .dashed{
     border: 1px dashed purple;
-    height: calc(450px / 4);
+    height: calc(400px / 3);
 }
 
 /* portfolio-section */
