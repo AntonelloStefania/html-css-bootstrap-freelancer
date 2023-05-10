@@ -125,14 +125,11 @@ h2{
 
 .about-row{
     height: 100%;
+    margin: 0 30px;
 }
 
 .white-title, .white-star{
     height: 50px;
-}
-
-.about-content{
-    margin: 0 30px;
 }
 
 /* contact-section */
